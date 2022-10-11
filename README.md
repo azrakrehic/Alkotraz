@@ -1,30 +1,29 @@
-# Grupa5-Alkotraz
-Alkotraz je aplikacija koja služi za jednostavnije i naprednije usluživanje ljudi u kafićima i restoranima. Korištenje iste je pojednostavljeno i u potpunosti prilagođeno korisnicima, čak i onima koji nemaju mnogo iskustva sa tehnologijom.
-Aplikaciju mogu koristiti mušterije, uposlenici i menadžeri ugostiteljskih objekata. Ona omogućava provjeru slobodnih stolova u prijavljenim kafićima, rezervaciju stolova, signalizaciju narudžbe, pregled menija, kao i naručivanje pjesama.
+Alkotraz is an application that serves simpler and more advanced services for people in cafes and restaurants. Its use is simplified and fully adapted to users, even those who do not have much experience with technology.
+The application can be used by customers, employees, and managers of catering facilities. It allows you to check available tables in registered cafes, reserve tables, signal your order, view the menu, as well as order songs.
 
-Akteri:
-- Menadžer
-- Uposlenik
-- Mušterija
+Actors:
+- Manager
+- An employee
+- A customer
 
-Funkcionalnosti:
+Functionalities:
 
-Menadžer:
-- kreiranje korisničkog računa za lokal
-- kreiranje/brisanje korisničkog računa za uposlenike
-- pregled prihoda
-- kreiranje eventa
+Manager:
+- creating a user account for the extension
+- creation/deletion of user accounts for employees
+- income overview
+- event creation
 
-Uposlenik:
-- prijava na profil
-- ažuriranje zauzetih stolova
-- ažuriranje rezervacija
-- pristup narudžbama
-- upravljanje playlistom
+Employee:
+- log in to the profile
+- update of occupied tables
+- updating reservations
+- access to orders
+- playlist management
 
-Mušterija:
-- prijava na profil
-- mogućnost odabira pjesme
-- elektronsko plaćanje
-- zahtjev za narudžbu
-- pregled menija
+Customer:
+- log in to the profile
+- possibility to choose a song
+- electronic payment
+- order request
+- menu overview
